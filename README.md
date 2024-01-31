@@ -8,13 +8,15 @@
 Check the likelihood that two faces belong to the same person. You will get a confidence score and thresholds to evaluate the similarity. Feel free to use our MiniAI Face Matching iOS SDK.
 
 
+### Please [Contact US](https://www.miniai.live/contact/) for testing on your iOS device.
+
+
 > **Note**
 >
 > - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 
 <br></br>
 
-### Please [Contact US](https://www.miniai.live/contact/) for testing on your iOS device.
 
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/3b07f850-0606-4d4a-b5cc-e9ed34c1f8e8" alt="Test1" width="160" />
