@@ -35,16 +35,6 @@ https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/2
 ## Request license
 Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-```java 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the original repository.
-```
-
 ### Related Product
 No | Project | Feature
 ---|---|---|
