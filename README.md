@@ -35,7 +35,10 @@ https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/2
 ## Request license
 Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
 
-### Related Product
+## Try Online Demo
+Please visit our Face API Web Demo here. https://minivision.live
+
+## Related Product
 No | Project | Feature
 ---|---|---|
 1 | [MiniAI-Face-Recognition-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-AndroidSDK) | Face Matching, 3D Face Passive Liveness
